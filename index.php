@@ -8,7 +8,6 @@
 // how upload file on mobile device?
 //TODO: add plugin to share
 //TODO: develop back-end
-//TODO: test
 ?>
 
 <html>
